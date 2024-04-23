@@ -1,0 +1,8 @@
+pygame
+reportlab
+matplotlib
+numpy 
+textblob
+PyPDF2
+pandas
+
