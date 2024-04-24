@@ -4,7 +4,7 @@
 ############################################################################
 
 repository name: Carbon_footprint
-repository version: 1.0 
+repository version: 1.1 
 repository link: https://github.com/protea-earth/carbon_footprint
 author: Jim Schwoebel 
 author contact: jim@protea.earth
